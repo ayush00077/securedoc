@@ -1,4 +1,5 @@
 # Project Overview: Secure Document Management System
+<img width="650" alt="Bildschirmfoto 2024-10-01 um 11 12 38" src="https://github.com/user-attachments/assets/5dc99a02-1b23-43a4-912e-41e9b99787d4">
 
 ### Introduction
 The Secure Document Management System is a user-friendly application designed for securely storing, updating, uploading, and deleting documents. It offers a centralized and robust solution for managing sensitive information, making it ideal for businesses that require reliable and secure document management. With strong security features and an intuitive interface, this system ensures efficient document handling and collaboration while prioritizing data protection.
@@ -22,3 +23,6 @@ The Secure Document Management System is a user-friendly application designed fo
 
 ##### 6. Audit Trail
 ###### The system logs all user activities, providing a detailed audit trail. Audit logs help administrators monitor and review user actions for security and compliance purposes.
+
+
+
